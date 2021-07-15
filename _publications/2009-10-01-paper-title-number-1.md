@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Raman quantum memory with built-in suppression of four-wave-mixing noise"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-BNS
+excerpt: 'This paper is about suppressing four-wave mixing noise within a Raman quantum memory. We demonstrate the potential for single-photon storage using this scheme.'
+date: 2019-9-3
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.033801'
+citation: 'Thomas, S. E., Hird, T. M., Munns, J. H., Brecht, B., Saunders, D. J., Nunn, J., Walmsley, I. A. & Ledingham, P. M. (2019). Raman quantum memory with built-in suppression of four-wave-mixing noise. Physical Review A, 100(3), 033801.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper is about suppressing four-wave mixing noise within a Raman quantum memory. We demonstrate the potential for single-photon storage using this scheme.
