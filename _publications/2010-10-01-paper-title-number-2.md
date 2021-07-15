@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Preparing Narrow Velocity Distributions for Quantum Memories in Room-Temperature Alkali Vapours"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-VSP
+excerpt: 'This paper is about velocity selective optical pumping to overcome motionally induced dephasing within quantum memories in atomic vapours.'
+date: 2021-4-12
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043105'
+citation: 'Main, D., T. M. Hird, S. Gao, E. Oguz, D. J. Saunders, I. A. Walmsley, and P. M. Ledingham. (2021)"Preparing Narrow Velocity Distributions for Quantum Memories in Room-Temperature Alkali Vapours". Physical Review A, 103(4), 043105.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+This paper is about velocity selective optical pumping to overcome motionally induced dephasing within quantum memories in atomic vapours.
