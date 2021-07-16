@@ -1,7 +1,9 @@
 ---
 title: "University admissions"
 collection: outreach
-permalink: /publication/admissions
-excerpt: 'Delivered mock interviews and given workshops on preparing for admission tests.'
-date: 2020-06-01
+type: "admissions"
+permalink: /outreach/admissions
+venue: "Universoty of Oxford"
+date: 2020-12-15
 ---
+Delivered mock interviews and given workshops on preparing for admission tests.
