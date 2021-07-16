@@ -13,7 +13,7 @@ Education
 ======
 * Master of Physics (MPhys), University of Oxford, 2016
 * Master of Research (MRes) in Quantum Technologies, University College London, 2017
-* Doctorate in Atomic and Laser Physics, University of Oxford, 2021
+* Doctorate in Atomic and Laser Physics (DPhil), University of Oxford, 2021
 
 Work experience
 ======
