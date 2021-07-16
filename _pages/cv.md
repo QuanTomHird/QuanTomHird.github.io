@@ -34,7 +34,6 @@ Work experience
   * Preparation of students for the Physics Olympiad and university admissions exams in natural sciences and engineering
 
 * January 2019 - June 2019: Tutor in Physics  
-  * Corpus Christi College, Oxford
   * Tutor for undergraduates reading physics at Corpus Christi College.
   * Tutorials, marking, student evaluation.
 
