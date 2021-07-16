@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Tutor1
 venue: "Corpus Christi College and Somerville College Oxford"
-date: 2017-2019
+date: 2017
 location: "Oxford, UK"
 ---
 
