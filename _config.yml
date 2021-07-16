@@ -83,11 +83,11 @@ author:
   name             : "Thomas Hird"
   avatar           : "profile.png"
   bio              : "Postdoctoral Research Assistant"
-  location         : "Oxford UK"
-  employer         : "University of Oxford"
+  location         : 
+  employer         : "University of Oxford UK"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=ebjWvN0AAAAJ&hl=en"
-  email            :
+  email            : "thomas.hird@physics.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/quantomhird/
   orcid            : "https://orcid.org/0000-0003-2288-3468"
   pinterest        :
   soundcloud       :
