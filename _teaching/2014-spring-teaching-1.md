@@ -1,15 +1,13 @@
 ---
 title: "Undergraduate Physics Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/Tutor1
 venue: "Corpus Christi College and Somerville College Oxford"
 date: 2017-12-15
 location: "Oxford, UK"
 ---
 
-Tutor for first year maths, mechanics and optics
-======
+* Tutor for first year maths, mechanics and optics
 
-Interviwer for undergraduate admissions
-======
+* Interviwer for undergraduate admissions
