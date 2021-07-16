@@ -4,7 +4,7 @@ collection: teaching
 type: "Academic"
 permalink: /teaching/Waynflete
 venue: "Magdalen College School"
-date: 2020
+date: 2020-09-01
 location: "Oxford"
 ---
 
