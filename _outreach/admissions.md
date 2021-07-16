@@ -1,7 +1,7 @@
 ---
 title: "University Admissions"
 collection: outreach
-type: "admissions"
+type: "Admissions"
 permalink: /outreach/admissions
 venue: "University of Oxford"
 date: 2020-09-01
