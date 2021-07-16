@@ -1,9 +1,13 @@
 ---
-title: "University admissions"
-collection: outreach
-type: "admissions"
-permalink: /outreach/admissions
-venue: "University of Oxford"
-date: 2020-12-15
+title: "Waynflete Academic for Physics"
+collection: teaching
+type: "Academic"
+permalink: /teaching/Waynflete
+venue: "Magdalen College School"
+date: 2020-09-01
+location: "Oxford"
 ---
-Delivered mock interviews and given workshops on preparing for admission tests.
+
+Provide weekly supervision and pastoral support of 6th form students completing an extended research
+project. Responsible for the preparation of students for the Physics Olympiad and university
+admission exams in natural sciences and engineering.
