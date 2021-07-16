@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Waynflete Academic for Physics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Academic"
+permalink: /teaching/Waynflete
+venue: "Magdalen College School"
+date: 2020
+location: "Oxford"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Provide weekly supervision and pastoral support of 6th form students completing an extended research
+project. Responsible for the preparation of students for the Physics Olympiad and university
+admission exams in natural sciences and engineering.
